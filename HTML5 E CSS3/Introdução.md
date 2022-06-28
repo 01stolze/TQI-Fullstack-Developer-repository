@@ -1,12 +1,12 @@
 ### Estrutura Básica do HTML5
-#### < !DOCTYPE html >
-## < HTML>
- ## < head >
+# < !DOCTYPE html >
+# < html >
+ # < head >
  # < meta >
  # < title >( título )</ title >
- ## <body>
- ## </body>
- ## < /htm l>
+ # < body >
+ # </ body >
+ # < /html >
 
  ### Material de apoio fornecido pelo DIO
  ## HTML5
