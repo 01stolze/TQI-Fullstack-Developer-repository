@@ -1,0 +1,36 @@
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border:black solid 1px;
+    padding: 2px;
+}
+h1 {
+    font-family:cursive ;
+    color:white;
+    font-size:larger;
+    max-width: auto;
+    max-height: 300px;
+}
+#navbar {
+    background-color:antiquewhite;
+}
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+body {
+    background-color: rgb(221, 221, 221);
+}
+.info {
+    background-color:white;
+    border-radius: 20px;
+    padding-top: none;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+h2 {
+    font-size: xx-large;
+    color:cadetblue;
+    font-family: cursive;
+}
